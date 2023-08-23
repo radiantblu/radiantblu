@@ -1,5 +1,5 @@
 ### RadiantBlu 
-[![Twitter Badge](https://img.shields.io/badge/-radiantblu-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/radiantblu)](https://twitter.com/radiantblu) [![Gmail Badge](https://img.shields.io/badge/-imradiantblu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imradiantblu@gmail.com)](mailto:imradiantblu@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-radiantbluu-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/radiantbluu)](https://twitter.com/radiantbluu) [![Gmail Badge](https://img.shields.io/badge/-imradiantblu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imradiantblu@gmail.com)](mailto:imradiantblu@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
